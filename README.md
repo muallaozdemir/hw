@@ -1,2 +1,2 @@
 # Hiya
-This is just me.
+This is just me
